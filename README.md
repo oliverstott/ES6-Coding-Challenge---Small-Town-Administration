@@ -1,10 +1,10 @@
 # ES6-Coding-Challenge---Small-Town-Administration
+Challenge supplied from The Complete Modern Javascript Course by Jonas Schmedttman
 
 
 /////////////////////////////////
-// CODING CHALLENGE
+CODING CHALLENGE
 
-/*
 
 Suppose that you're working in a small town administration, and you're in charge of two town elements:
 1. Parks
